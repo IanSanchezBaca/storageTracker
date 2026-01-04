@@ -1,0 +1,24 @@
+{
+  "name": "storagetracker",
+  "version": "1.0.0",
+  "description": "I am going to create this app using electron.js so that i can make one app and it will work on all systems.",
+  "homepage": "https://github.com/IanSanchezBaca/storageTracker#readme",
+  "bugs": {
+    "url": "https://github.com/IanSanchezBaca/storageTracker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IanSanchezBaca/storageTracker.git"
+  },
+  "license": "ISC",
+  "author": "Ian Sanchez Baca",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^39.2.7"
+  }
+}
